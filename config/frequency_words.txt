@@ -11,6 +11,12 @@ HarmonyOS
 
 大疆
 DJI
+汪硕
+
+3D打印
+拓竹
+纵维立方
+创想三维
 
 宇树
 王兴兴
@@ -20,11 +26,9 @@ DJI
 稚晖君
 彭志辉
 
+游戏
 黑神话
 冯骥
-
-影之刃零
-梁其伟
 
 三体
 流浪地球
@@ -35,7 +39,6 @@ DJI
 
 京东
 刘强东
-
 字节
 bytedance
 张一鸣
@@ -62,17 +65,17 @@ chatgpt
 openai
 sora
 
+ai
+!gai
+人工智能
 claude
 Anthropic
+六小龙
 
 iphone
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
 
 自动驾驶
 
@@ -85,7 +88,13 @@ ai
 美国
 日本
 韩国
+欧洲
 国际
+
+台湾
+香港
+澳门
+台独
 
 芯片
 光刻机
